@@ -1,11 +1,11 @@
-<h1 align="center">📋 To-Do List 📋</h1>
+<h1 align="center">📋 Name List 📋</h1>
 
 ## 💻 Project
 Application to organize, plan and collaborate on large or small projects.
 
 ## 🎨 Layout
 
-![Layout Project]()
+![Layout Project](https://github.com/FelipeHonoratoo/name-list/blob/master/layout.png)
 
 ## 📚 Technologies
 
