@@ -3,6 +3,10 @@
 ## 💻 Project
 Application to organize, plan and collaborate on large or small projects.
 
+## 🎨 Layout
+
+![Layout Project]()
+
 ## 📚 Technologies
 
 * JavaScript
@@ -11,4 +15,4 @@ Application to organize, plan and collaborate on large or small projects.
 
 ## 📃 License
 
-MIT License [LICENSE](https://github.com/FelipeHonoratoo/todo-list/blob/master/LICENSE)
+MIT License [LICENSE](https://github.com/FelipeHonoratoo/name-list/blob/master/LICENSE)

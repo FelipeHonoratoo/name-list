@@ -1,29 +1,16 @@
-body {
-    display: block;
-    text-align: left;
+ul,
+li {
+  list-style-type: none;
 }
 
-h1 {
-    margin-left: 50px;
+.clickable {
+  cursor: pointer;
 }
 
-li, input {
-    margin: 7px;
-    padding: 7px;
-}
-
-a {
-    color: #1C1C1C;
-    margin: 7px;
-    padding: 7px;
-    text-decoration: none;
-    background-color: #D3D3D3;
-}
-
-button {
-    color: #1C1C1C;
-    margin: 7px;
-    padding: 7px;
-    text-decoration: none;
-    background-color: #D3D3D3;
+.styleButton {
+  color: white;
+  font-weight: bold;
+  background-color: darkred;
+  margin-right: 10px;
+  border-radius: 50%;
 }
